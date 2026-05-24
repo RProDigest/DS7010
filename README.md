@@ -1,4 +1,4 @@
-# DS7010 Dissertation 
+# Dual-Engine 5G Energy Optimisation
 ## By Mubanga Nsofu, University of East London
 
 ## Title: Towards Sustainable 5G Networks: A Dual Engine Framework Using Offline Reinforcement Learning and Surrogate-Based Optimisation
