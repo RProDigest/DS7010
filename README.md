@@ -1,6 +1,7 @@
-# DS7010 Dissertation By Mubanga Nsofu, University of East London
+# DS7010 Dissertation 
+## By Mubanga Nsofu, University of East London
 
-## Towards Sustainable 5G Networks: A Dual Engine Framework Using Offline Reinforcement Learning and Surrogate-Based Optimisation
+## Title: Towards Sustainable 5G Networks: A Dual Engine Framework Using Offline Reinforcement Learning and Surrogate-Based Optimisation
 
 This repository contains the source code used for my MSc Data Science dissertation submitted as part of the DS7010 project.
 
