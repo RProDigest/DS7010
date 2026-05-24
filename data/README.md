@@ -84,43 +84,12 @@ A typical modelling workflow is:
 4. Engineer time-based features from `Time`, such as hour of day.
 5. Use load, configuration, and energy-saving mode variables to model or optimise energy consumption.
 
-## Suggested folder structure
 
-```text
-data/
-├── raw/
-│   ├── BSinfo.csv
-│   ├── CLdata.csv
-│   └── ECdata.csv
-├── processed/
-│   └── merged_5g_energy_dataset.csv
-└── README.md
-```
-
-## Reproducibility notes
-
-- The raw data should be kept unchanged in `data/raw/`.
-- Any cleaned, merged, or feature-engineered datasets should be saved separately in `data/processed/`.
-- If the raw competition data cannot be redistributed publicly, keep the CSV files out of the GitHub repository and provide instructions for downloading them from Zindi.
-- Use `.gitignore` to exclude large or restricted raw data files where necessary.
-
-Example `.gitignore` entries:
-
-```gitignore
-data/raw/*.csv
-data/processed/*.csv
-```
-
-## Citation
-
-If this dataset is used in academic writing, cite the source as:
+## Source of the dataset
 
 Zindi. (2023). *AI/ML for 5G energy consumption modelling: Data*. https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling/data
 
-In-text citation:
 
-- Parenthetical: `(Zindi, 2023)`
-- Narrative: `Zindi (2023)`
 
 ## Disclaimer
 
