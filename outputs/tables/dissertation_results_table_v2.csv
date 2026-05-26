@@ -1,0 +1,6 @@
+Method,Mean Energy (kWh),Site-Level Savings (%),Total OPEX Savings (%),Statistics
+Baseline (Historical),28.512,0.0,0.0,—
+Engine 1 — XGBoost Surrogate,24.633,10.75,13.6,—
+Engine 2 — TD3+BC (Primary),17.701,32.23,37.92,"p=0.00e+00, d=1.18"
+Engine 2 — IQL,25.691,5.69,9.9,"p=0.00e+00, d=0.30"
+Engine 2 — CQL,25.897,3.25,9.17,"p=0.00e+00, d=0.37"

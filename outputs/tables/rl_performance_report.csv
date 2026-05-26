@@ -1,0 +1,5 @@
+Algorithm,Mean Savings (%),Norm. Score,Consistency,Win vs Baseline,Win vs XGBoost,P10 Tail (%),Optimism Ratio
+Engine 1 (XGBoost),10.75,0.1075,1.0,71.1%,0.0%,-2.93,N/A
+Engine 2 (TD3+BC),32.23,0.3223,0.9916,94.7%,84.7%,7.6,0.926
+Engine 2 (IQL),5.69,0.0569,0.5623,57.0%,40.9%,-6.99,-0.821
+Engine 2 (CQL),3.25,0.0325,0.7189,63.3%,32.0%,-24.58,-3.665
